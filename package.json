@@ -1,0 +1,24 @@
+{
+  "name": "main-task_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luda0602/Main-task_.git"
+  },
+  "keywords": [],
+  "author": "Ludmyla Motsiuk <ludamocuk29@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Luda0602/Main-task_/issues"
+  },
+  "homepage": "https://github.com/Luda0602/Main-task_#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
