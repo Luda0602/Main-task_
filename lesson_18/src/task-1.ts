@@ -42,7 +42,7 @@ divisionButton.addEventListener("click", function (): void {
 
   if (b === 0) {
     resultInput.value = "";
-    document.write("На нуль ділити не можна");
+    alert("На нуль ділити не можна");
     return;
   }
 

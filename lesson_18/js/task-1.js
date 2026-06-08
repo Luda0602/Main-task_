@@ -26,7 +26,7 @@ divisionButton.addEventListener("click", function () {
     const b = Number(secondNumberInput.value);
     if (b === 0) {
         resultInput.value = "";
-        document.write("На нуль ділити не можна");
+        alert("На нуль ділити не можна");
         return;
     }
     resultInput.value = String(a / b);
