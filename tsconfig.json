@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "rootDir": "./lesson_16/src",
-    "outDir": "./lesson_16/js",
+    "rootDir": "./lesson_17/src",
+    "outDir": "./lesson_17/js",
 
     "target": "ES2022",
     "module": "ES2022",
@@ -10,5 +10,5 @@
     "sourceMap": true,
     "skipLibCheck": true
   },
-  "include": ["lesson_16/src/**/*.ts"]
+  "include": ["lesson_17/src/**/*.ts"]
 }
